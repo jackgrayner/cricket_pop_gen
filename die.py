@@ -38,7 +38,7 @@ plt.figure()
 plt.plot(T, np.median(Nes, axis=0))
 plt.xscale('log')
 plt.yscale('log')
-plt.savefig("Ne_Oahu_BYU_chr5_9_14.png")
+plt.savefig("Ne_Oahu_BYU_chr5_9_14.png")#looks like fucking shit
 plt.close()
 
 #try rescaling by Drosophila mutation rates
@@ -51,7 +51,7 @@ plt.figure()
 plt.plot(T, np.median(Nes, axis=0))
 plt.xscale('log')
 plt.yscale('log')
-plt.savefig("Ne_Oahu_BYU_chr5_9_14_gens.png")
+plt.savefig("Ne_Oahu_BYU_chr5_9_14_gens.png")#looks like fucking shit
 plt.close()
 
 

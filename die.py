@@ -6,7 +6,6 @@ import numpy as np
 import random
 
 #define input VCF and scaffolds
-vcf_path = "repeat_filtered.vcf.gz"
 scaffolds = ["scaffold_5", "scaffold_9","scaffold_14"]
 
 #get list of all samples 

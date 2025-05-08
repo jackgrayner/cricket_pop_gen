@@ -56,4 +56,4 @@ plt.close()
 
 
 df = pd.DataFrame(Nes)
-df.to_csv("Nes_Oahu_BYU_Chr5_9_14_test2.csv")
+df.to_csv("Nes_Oahu_BYU_Chr5_9_14_test2.csv")#don't know what the fuck this is

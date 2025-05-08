@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 
-# === Define input VCF and scaffolds
+#define input VCF and scaffolds
 vcf_path = "repeat_filtered.vcf.gz"
 scaffolds = ["scaffold_5", "scaffold_9","scaffold_14"]
 
